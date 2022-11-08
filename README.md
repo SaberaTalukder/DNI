@@ -5,7 +5,7 @@ Deep Neural Imputation: A Framework for Recovering Incomplete Brain Recordings
 [Paper](https://arxiv.org/pdf/2206.08094.pdf)
 
 The ajile12 dataset comes from these sources:
-- [Paper](file:///tmp/mozilla_sabra0/s41597-022-01280-y.pdf)
+- [Paper](https://www.nature.com/articles/s41597-022-01280-y)
 - [Data Repository](https://dandiarchive.org/dandiset/000055/)
 
 The move rest dataset, which is a subset of the ajile12 dataset, comes from these sources:
